@@ -11,12 +11,12 @@ namespace ResponsiPemrog2320
         static void Main(string[] args)
         {
             Karyawan kry = new Karyawan();
-            kry.Nik = "12345678";
+            kry.Nik = "123456";
             kry.Nama = "Tejo";
             kry.GajiBulanan = 3000000;
 
             Karyawan kry2 = new Karyawan();
-            kry2.Nik = "87654321";
+            kry2.Nik = "123456";
             kry2.Nama = "Surti";
             kry2.GajiBulanan = 2000000;
 
